@@ -6,3 +6,4 @@ draft: true
 
 ## Bienvenue à tous
 Pratique ce modèle de projet *Hugo*. j'espère que vous appréciez ce guide !
+Ceci est une page de test
